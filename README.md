@@ -1,10 +1,10 @@
 # CoffeeShop
 
-There are two different coffee shop.
+There are two different coffee shops.
 
-Both of them wants to save customers to their db
+Both of them want to save customers to their db
 
-One of them need to validation of real person 
+One of them needs to validation of real person 
 
 other one does not need that.
 
