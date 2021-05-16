@@ -13,7 +13,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		
 		
-		Customer customer = new Customer("24575176120","EVREN","YÝÐÝT",1996);
+		Customer customer = new Customer("TCN0","NAME","LASTNAME",1995);
 		
 		BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
 		
